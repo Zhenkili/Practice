@@ -25,4 +25,5 @@ public class PracticeForSpringBootApplication {
     private String bookauthor;
     @Value(value="${book.subname}")
     private String booksubname;
+
 }
